@@ -6,7 +6,7 @@ Standom
 
 ## About Project(2-3 lines)
 
-Standom is IP content-driven community of fans and creators, which will create more enthusiasm globally for IP content (such as manga and anime) with Web3.
+Standom is IP content-driven community of fans and creators, which will create more enthusiasm globally for IP contents (such as manga and anime) with Web3.
 
 ## the problem it is solving
 
