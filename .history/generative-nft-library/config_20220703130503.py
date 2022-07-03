@@ -1,0 +1,58 @@
+CONFIG = [
+    {
+        'id': 1,
+        'name': 'background',
+        'directory': 'Background',
+        'required': True,
+        'rarity_weights': None,
+    },
+    {
+        'id': 2,
+        'name': 'skin',
+        'directory': 'Skin',
+        'required': True,
+        'rarity_weights': None,
+    },
+    {
+        'id': 3,
+        'name': 'bodysoutline',
+        'directory': 'Bodysoutline',
+        'required': True,
+        'rarity_weights': None,
+    },
+    {
+        'id': 4,
+        'name': 'mouth',
+        'directory': 'Mouth',
+        'required': True,
+        'rarity_weights': None,
+    },
+    {
+        'id': 5,
+        'name': 'eyes',
+        'directory': 'Eyes',
+        'required': True,
+        'rarity_weights': None,
+    },
+    {
+        'id': 6,
+        'name': 'hair',
+        'directory': 'Hair',
+        'required': True,
+        'rarity_weights': None,
+    },
+    {
+        'id': 7,
+        'name': 'wear',
+        'directory': 'Wear',
+        'required': True,
+        'rarity_weights': None,
+    },
+    {
+        'id': 8,
+        'name': 'earring',
+        'directory': 'Earring',
+        'required': True,
+        'rarity_weights': None,
+    },
+]
